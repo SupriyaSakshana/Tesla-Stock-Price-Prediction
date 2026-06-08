@@ -8,16 +8,4 @@ This project aims to predict Tesla's future stock closing prices using Deep Lear
 
 
 
-Tesla-Stock-Prediction/
 
-│
-├── TSLA.csv
-├── Tesla_Stock_Prediction.ipynb
-├── app.py
-├── requirements.txt
-├── best_lstm_model.keras
-├── best_rnn_model.keras
-├── README.md
-├── report.pdf
-└── images/
-Marks Distribution Strategy
